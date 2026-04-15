@@ -11,7 +11,6 @@ nhảy làm gì?
 học nhanh
 làm nhiều
 test nhiều
-day 1
 cretor acc github vs X 
 viet tieu su, tinhs points
 tạo acc x mới cho hnay
@@ -21,4 +20,3 @@ nhảy làm gì?
 học nhanh
 làm nhiều
 test nhiều
-học web 3 
